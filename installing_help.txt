@@ -1,0 +1,6 @@
+1. upload crud_app in htdocs folder
+2. import crud_app.sql file in phpmyadmin (in root_directory/DB_folder)
+3. now call url : http://localhost/crud_app/public/signup' for register employee
+4. now login
+5. Manage employees
+6. Manage tasks
